@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
 const char* ssid     = "dgedu-learning"; 
-const char* password = "1907029089"; 
+const char* password = "********"; 
  
 WiFiServer server(80);
  
